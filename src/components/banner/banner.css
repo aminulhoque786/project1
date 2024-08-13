@@ -1,0 +1,49 @@
+#banner{
+    background: url(../../assets/background.png) no-repeat center ;
+    background-size: cover;
+    padding: 300px 0;
+    }
+    .ban_inner{
+        padding: 20px;
+      }
+      .ban_inner h2{
+        width:962;
+        font-size: 84px;
+        font-weight: bold;
+        font-family: "Open Sans", sans-serif;
+    
+        text-align: center;
+        color: #fff;
+        
+      }
+      .ban_inner p{
+        text-align: center;
+        width: 815px;
+        font-size: 24px;
+        font-family: "Paprika", system-ui;
+    
+        margin-top: 20px;
+        padding-left: 300px;
+        opacity: 80%;
+        color: #FAFAFE;
+      }
+      .ban_button{
+        text-align: center;
+        padding: 20px 20px;
+        
+      }
+      .ban_button button{
+        padding: 20px 40px;
+        font-size: 20px;
+        font-weight: 500;
+        column-gap: 40px;
+        border-radius: 30px;
+        border: none;
+        margin: 30px;
+      }
+      .ban_button button:hover {
+    background-color: rgb(16, 174, 121);
+    cursor: pointer;
+    transition: .9s;
+      }
+      

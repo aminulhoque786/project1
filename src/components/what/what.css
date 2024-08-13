@@ -1,0 +1,89 @@
+#what{
+    padding-top: 120px;
+    background-color: #F6F5FF;
+}
+.container{
+    width:1320px;
+    margin: 0 auto;
+}
+.we{
+    display: flex;
+    text-align: center;
+    column-gap: 150px;
+}
+.fus{
+padding:20pz;
+}
+.fus h2{
+color: #141135;
+font-size: 38px;
+padding-top: 20px;
+}
+.fus p{
+    color: #6C7D93;
+    padding-top: 20px;
+    font-size: 18px;
+    width: 250px;
+}
+button{
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 10px 30px;
+    border: none;
+    font-weight: bold;
+    
+}
+button:hover{
+    background-color: green;
+    
+    border: none;
+}
+.luis{
+    padding: 30px 50px;
+    text-align: center;
+    background-color: #fdfdfd;
+}
+.luis h2{
+   padding-top: 20px;
+    color: #0a0909;
+    font-size: 30px;
+    font-weight: bold;
+}
+.luis p{
+    padding-top: 20px;
+    font-size: 18px;
+    color: #000000;
+    font-family: "Paprika", system-ui;
+    width:257px;
+}
+.tuis{
+    padding: 30px 50px;
+    text-align: center;
+    background-color: #ffffff;
+}
+.tuis h2{
+   padding-top: 20px;
+    color: #0b0b0b;
+    font-size: 30px;
+    font-weight: bold;
+}
+.tuis p{
+    padding-top: 20px;
+    font-size: 18px;
+    color: #000000;
+    font-family: "Paprika", system-ui;
+    width:257px;
+}
+.grow{
+    display: flex;
+    padding-top: 100px;
+    column-gap: 100px;
+}
+.luis:hover{
+    background-color: #6B62C5;
+    transition: .9s;
+}
+.tuis:hover{
+    background-color: #6B62C5;
+    transition: .9s;
+}

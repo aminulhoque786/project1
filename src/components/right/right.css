@@ -1,0 +1,41 @@
+#right{
+   text-align: center;
+}
+.Card_Body{
+    padding-top: 100px;
+}
+.card h5{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+h3{
+    text-align: center;
+}
+
+   
+
+.plan{
+    margin: 120px;
+}
+.card h3{
+    color: #1BBF00;
+    font-size: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
+.card p{
+    font-family: "Paprika", system-ui;
+    font-size: 20px;
+    padding: 10px;
+
+}
+.plan h2{
+    text-align: center;
+    align-items: center;
+}
+.card:hover{
+    background-color:#6001D3;
+    transition: .9s;
+    color: #fff;
+}

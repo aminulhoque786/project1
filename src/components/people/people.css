@@ -1,0 +1,40 @@
+#people{
+    padding-top: 120px;
+}
+.the{
+    text-align: center;
+    align-items: center;
+}
+.sky{
+    box-shadow: 2px  1px #707070;
+}
+.star{
+    text-align: center;
+}
+.star{
+    padding-left: 280px;
+}
+.star p{
+    text-align: center;
+    padding-top: 40px;
+    width: 800px;
+    font-size: 24px;
+    font-family: "Paprika", system-ui;
+    color: #726E9E;
+
+}
+.ser{
+    text-align: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.ser h5{
+    color: #221A2C;
+    font-size: 20px;
+    font-weight: bold;
+}
+.ser p{
+    font-size: 16px;
+    font-family: "Paprika", system-ui;
+    color: #726E9E;
+}
